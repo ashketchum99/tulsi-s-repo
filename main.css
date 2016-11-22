@@ -1,0 +1,27 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+body{
+    text-align: center;
+    background-color: skyblue;
+    font-family: "Ubuntu", sans-serif;
+}
+h1{
+    color: aliceblue;
+}
+.project-title{
+    text-align: left;
+    margin-left: 50px;
+}
+h2{
+    color: #fff;
+    background-color: #000;
+    display: inline-block;
+    padding: 100px 150px 100 px 150px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
